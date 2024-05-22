@@ -7,4 +7,4 @@ async def index(request):
     return 'Hello, world!'
 
 
-app.run(port=8000, debug=True)
+app.run()
